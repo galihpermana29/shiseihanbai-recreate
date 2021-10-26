@@ -1,5 +1,10 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import {
+	BrowserRouter as Router,
+	Route,
+	Switch,
+	HashRouter,
+} from 'react-router-dom';
 import Home from './Page/Home';
 import { dataContext } from './Config/Context';
 import { fetchDataFromAPI } from './Config/FetchDataFromApi';
@@ -18,11 +23,14 @@ function App() {
 
 	return (
 		<dataContext.Provider value={{ data, setData, newData, setNewData }}>
-			<Router>
-				<Switch>
-					<Route path={'/'} component={Home} exact />
-				</Switch>
-			</Router>
+			{/* <HashRouter>
+				<Router>
+					<Switch>
+						<Route path={'/'} component={Home} exact />
+					</Switch>
+				</Router>
+			</HashRouter> */}
+			<Home />
 		</dataContext.Provider>
 	);
 }

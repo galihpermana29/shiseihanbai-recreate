@@ -1,8 +1,8 @@
 {
-	"homepage": "http://galihpermana29.github.io/shiseihanbai-recreate",
-	"name": "recreate-shiseihanbai",
+  "name": "recreate-shiseihanbai",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://galihpermana29.github.io/shiseihanbai-recreate",
 	"dependencies": {
 		"@craco/craco": "^6.3.0",
 		"@react-pdf/renderer": "^2.0.20",
