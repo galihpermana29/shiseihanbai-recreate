@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/shiseihanbai-recreate/static/css/main.a6b12258.chunk.css",
-    "main.js": "/shiseihanbai-recreate/static/js/main.3217685d.chunk.js",
-    "main.js.map": "/shiseihanbai-recreate/static/js/main.3217685d.chunk.js.map",
+    "main.js": "/shiseihanbai-recreate/static/js/main.e8377ee1.chunk.js",
+    "main.js.map": "/shiseihanbai-recreate/static/js/main.e8377ee1.chunk.js.map",
     "runtime-main.js": "/shiseihanbai-recreate/static/js/runtime-main.35ef56ae.js",
     "runtime-main.js.map": "/shiseihanbai-recreate/static/js/runtime-main.35ef56ae.js.map",
-    "static/js/2.0425d23f.chunk.js": "/shiseihanbai-recreate/static/js/2.0425d23f.chunk.js",
-    "static/js/2.0425d23f.chunk.js.map": "/shiseihanbai-recreate/static/js/2.0425d23f.chunk.js.map",
+    "static/js/2.61470de3.chunk.js": "/shiseihanbai-recreate/static/js/2.61470de3.chunk.js",
+    "static/js/2.61470de3.chunk.js.map": "/shiseihanbai-recreate/static/js/2.61470de3.chunk.js.map",
     "index.html": "/shiseihanbai-recreate/index.html",
     "static/css/main.a6b12258.chunk.css.map": "/shiseihanbai-recreate/static/css/main.a6b12258.chunk.css.map",
-    "static/js/2.0425d23f.chunk.js.LICENSE.txt": "/shiseihanbai-recreate/static/js/2.0425d23f.chunk.js.LICENSE.txt"
+    "static/js/2.61470de3.chunk.js.LICENSE.txt": "/shiseihanbai-recreate/static/js/2.61470de3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35ef56ae.js",
-    "static/js/2.0425d23f.chunk.js",
+    "static/js/2.61470de3.chunk.js",
     "static/css/main.a6b12258.chunk.css",
-    "static/js/main.3217685d.chunk.js"
+    "static/js/main.e8377ee1.chunk.js"
   ]
 }
